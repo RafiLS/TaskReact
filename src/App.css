@@ -1,0 +1,15 @@
+
+.app {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: radial-gradient(circle at top, #0f172a, #020617);
+  font-family: "Inter", system-ui, sans-serif;
+  color: #e5e7eb;
+}
+
+.app-body {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+}
